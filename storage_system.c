@@ -101,7 +101,7 @@ int main(){
     else printf("Login Failure!");
     return 0;
 }
-
+ddddddd
 void push(element item){
     stackPointer temp;
     temp=(stackPointer *)malloc(sizeof(stackPointer));
